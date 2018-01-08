@@ -16,23 +16,8 @@ npm run dev
 npm run build
 ```
 ####目录结构描述
-├── Readme.md                   // help
-├── index                       // 应用
-├── webpack.config.js           // 配置
-├── package.json
-├── src                         // web静态资源加载
-│   ├── api
-│  		└── shop.js             //项目数据，异步请求相关
-│   ├── assets
-│   	└── style		        // 静态资源
-│   ├── components				//组件
-│   ├── store					//vuex相关
-│   	├── modules				//cart模块，product模块
-│ 		├── index
-│   	└── mutation-type 		//常量
-├── App.vue
-├── currency.js					//筛选
-└── main.js						
+<img src="https://github.com/seven77Zhou/vuex-Module-shopCart-forBeginner/blob/master/list.jpg	"/>
+		
 
 ## 说明
 
