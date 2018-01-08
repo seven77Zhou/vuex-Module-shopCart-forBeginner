@@ -16,7 +16,7 @@ npm run dev
 npm run build
 ```
 
-##目录结构描述
+## 目录结构描述
 
 > 目录展示
 ![](https://github.com/seven77Zhou/vuex-Module-shopCart-forBeginner/blob/master/list.jpg) 	
