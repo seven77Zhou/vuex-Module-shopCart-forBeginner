@@ -16,8 +16,7 @@ npm run dev
 npm run build
 ```
 ####目录结构描述
-<img src="https://github.com/seven77Zhou/vuex-Module-shopCart-forBeginner/blob/master/list.jpg	"/>
-		
+![](https://github.com/seven77Zhou/vuex-Module-shopCart-forBeginner/blob/master/list.jpg) 	
 
 ## 说明
 
